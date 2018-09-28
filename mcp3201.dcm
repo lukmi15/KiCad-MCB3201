@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP3201
+D A/D Converter, 12-Bit, 1-Channel, SPI Interface, 2.7V-5.5V
+K 12bit ADC Reference Single Supply SPI 1-Channel
+F /home/lukas/uni/pcbd/project/MCP3201_MIC.pdf
+$ENDCMP
+#
+#End Doc Library
